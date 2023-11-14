@@ -32,6 +32,7 @@ Free allocated memory
 ### step 9:
 Reset the GPU device
 ## Program:
+
 ### Float Matrix Addition:
 ```c
 #include "../common/common.h"
