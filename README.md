@@ -1,5 +1,6 @@
-## EX No: 2
-## PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-
+
+## <p align="left">Ex No: 2 <br>Date: 30/8/2023</p>
+# <p align="center"> PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition</p>
 ## Aim:
 To implement Matrix summation with 2D grids and blocks.
 
